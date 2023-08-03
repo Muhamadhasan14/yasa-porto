@@ -14,6 +14,7 @@ function App() {
   return (
     <>
       <Header />
+      (_)
       <AnimatedRoutes personalDetails={personalDetails} />
     </>
   );
