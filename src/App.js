@@ -3,12 +3,12 @@ import AnimatedRoutes from "./components/AnimatedRoutes";
 
 function App() {
   const personalDetails = {
-    name: "Michael Yeates",
-    location: "Loughborough, UK",
-    email: "michael-yeates@outlook.com",
-    availability: "Open for work",
+    name: "M Hasan Mulyasa R",
+    location: "Jakarta, ID",
+    email: "muhamadhasanmulyasar@gmail.com",
+    availability: "Open for Freelance",
     brand:
-      "My unique blend of technical expertise, creative thinking, and background in psychology allows me to approach each project with a deep understanding of the end user's perspective, resulting in highly effective user-centred digital products.",
+      "just a product manager pursuing my dream to bring lots of smiles by fulfilling users' needs and providing value to the company",
   };
 
   return (

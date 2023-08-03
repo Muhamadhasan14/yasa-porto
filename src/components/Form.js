@@ -29,6 +29,8 @@ const Form = () => {
     e.preventDefault();
 
     const data = JSON.stringify(formData);
+    <a href="mailto:email@example.com">Click to Send an Email</a>
+
 
     fetch("https://api.web3forms.com/submit", {
       method: "POST",
@@ -63,7 +65,7 @@ const Form = () => {
       initial={{ x: "-10vw", opacity: 0 }}
       animate={inView ? { x: 0, opacity: 1 } : { x: "-10vw", opacity: 0 }}
       transition={{ duration: 0.4, ease: "easeInOut" }}
-      onSubmit={handleSubmit}
+      // onSubmit={handleSubmit}
     >
       <h4 className="contentTitle">Message Me</h4>
       <div className="col-12 col-md-6 formGroup" style={{ display: "inline-block" }}>
@@ -115,7 +117,11 @@ const Form = () => {
         ></textarea>
       </div>
       <div className="col-12 formGroup formSubmit">
-        <button className="btn">{success ? "Message Sent" : "Send Message"}</button>
+        <button className="btn">
+          <a href="mailto:yasa.mulyasa14@gmail.com">Click to Send an Email</a>
+
+          {/* {success ? "Message Sent" : "Send Message"} */}
+        </button>
       </div>
     </motion.form>
   );

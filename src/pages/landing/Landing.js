@@ -52,14 +52,14 @@ const Landing = ({ name }) => {
             onInit={(typewriter) => {
               typewriter
                 .changeDelay(80)
-                .typeString("I'm a Software Engineer")
+                .typeString("I'm a Product Manager")
                 .pauseFor(1500)
                 .deleteAll()
-                .typeString("Code. ")
+                .typeString("Idea. ")
                 .pauseFor(500)
                 .typeString("Create. ")
                 .pauseFor(500)
-                .typeString("Innovate.")
+                .typeString("Deliver.")
 
                 .start();
             }}
@@ -74,7 +74,7 @@ const Landing = ({ name }) => {
           transition={{ duration: 1, ease: "easeInOut" }}
           style={styles.landingImage}
           src={landingImage}
-          alt="Michael Yeates"
+          alt="Muhamad Hasan MR"
         />
       </div>
       <SocialIcons />
