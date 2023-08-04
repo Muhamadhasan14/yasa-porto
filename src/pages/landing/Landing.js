@@ -55,11 +55,11 @@ const Landing = ({ name }) => {
                 .typeString("I'm a Product Manager")
                 .pauseFor(1500)
                 .deleteAll()
-                .typeString("Idea. ")
+                .typeString("Vision. ")
                 .pauseFor(500)
-                .typeString("Create. ")
+                .typeString("Value. ")
                 .pauseFor(500)
-                .typeString("Deliver.")
+                .typeString("and Validation.")
 
                 .start();
             }}
