@@ -13,7 +13,7 @@
 
   <br />
   <div align="center">
-    <a href="https://github.com/mdyeates/my-portfolio">
+    <a href="https://github.com/Muhamadhasan14/yasa-porto.git">
       <img src="src/images/logo.svg" alt="Logo" width="200" height="200">
     </a>
     <h3 align="center">My React Portfolio</h3>
@@ -21,17 +21,17 @@
     <br/>
 This portfolio application was built using React and is designed to showcase my projects. It features a dynamic and visually appealing layout. <br/>
       <br/>
-      Built by: Michael Yeates
+      Built by: Muhamad Hasan
       <br/>
       <br/>
-      <a href="https://github.com/mdyeates/my-portfolio"><strong>Explore the docs »</strong></a>
+      <a href="https://github.com/Muhamadhasan14/yasa-porto.git"><strong>Explore the docs »</strong></a>
       <br/>
       <br/>
-      <a href="https://michaelyeates.co.uk">View Live Website</a>
+      <a href="">View Live Website</a>
       ·
-      <a href="https://github.com/mdyeates/my-portfolio/issues">Report Bug</a>
+      <a href="">Report Bug</a>
       ·
-      <a href="https://github.com/mdyeates/my-portfolio/issues">Request Feature</a>
+      <a href="">Request Feature</a>
     </p>
   </div>
   
@@ -72,13 +72,13 @@ This portfolio application was built using React and is designed to showcase my 
   
   ### Photos
   
-  [![My React Portfolio Screen Shot][product-screenshot]](https://michaelyeates.co.uk)
+  [![My React Portfolio Screen Shot][product-screenshot]](https://muhamadhasan.pro)
 
-[![My React Portfolio Screen Shot][product-screenshot2]](https://michaelyeates.co.uk)
+[![My React Portfolio Screen Shot][product-screenshot2]](https://muhamadhasan.pro)
 
-[![My React Portfolio Screen Shot][product-screenshot3]](https://michaelyeates.co.uk)
+[![My React Portfolio Screen Shot][product-screenshot3]](https://muhamadhasan.pro)
 
-[![My React Portfolio Screen Shot][product-screenshot4]](https://michaelyeates.co.uk)
+[![My React Portfolio Screen Shot][product-screenshot4]](https://muhamadhasan.pro/)
 
   <p align="right"><a href="#readme-top">back to top</a></p>
   
@@ -127,13 +127,13 @@ To get a local copy up and running follow these simple example steps.
   
   - As demonstrated in the photos below, this application is designed to be responsive and adjust seamlessly to fit various screen sizes
   
-    [![Responsiveness Screenshot][responsive-screenshot]](https://michaelyeates.co.uk)
+    [![Responsiveness Screenshot][responsive-screenshot]](https://muhamadhasan.pro/)
     
-    [![Responsiveness Screenshot][responsive-screenshot2]](https://michaelyeates.co.uk)
+    [![Responsiveness Screenshot][responsive-screenshot2]](https://muhamadhasan.pro/)
 
-    [![Responsiveness Screenshot][responsive-screenshot3]](https://michaelyeates.co.uk)
+    [![Responsiveness Screenshot][responsive-screenshot3]](https://muhamadhasan.pro/)
 
-    [![Responsiveness Screenshot][responsive-screenshot4]](https://michaelyeates.co.uk)
+    [![Responsiveness Screenshot][responsive-screenshot4]](https://muhamadhasan.pro/)
 
   <p align="right"><a href="#readme-top">back to top</a></p>
 
@@ -150,11 +150,11 @@ Distributed under the MIT License. See `LICENSE.md` for more information.
   
 ## Questions
 
-If you have any inquiries, don't hesitate to reach out to me via socials or by sending an email to <a href="mailto:michael-yeates@outlook.com">michael-yeates@outlook.com</a>
+If you have any inquiries, don't hesitate to reach out to me via socials or by sending an email to <a href="mailto:muhamadhasanmulyasar@gmail.com">muhamadhasanmulyasar@gmail.com</a>
 
-<a href="https://www.linkedin.com/in/mdyeates/">LinkedIn</a> | <a href="https://github.com/mdyeates/">GitHub</a>
+<a href="">LinkedIn</a> | <a href="">GitHub</a>
 
-Project Link: [https://github.com/mdyeates/my-portfolio](https://github.com/mdyeates/my-portfolio)
+Project Link:
 
   <p align="right"><a href="#readme-top">back to top</a></p>
   

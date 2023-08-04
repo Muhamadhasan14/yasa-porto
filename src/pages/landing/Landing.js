@@ -59,7 +59,7 @@ const Landing = ({ name }) => {
                 .pauseFor(500)
                 .typeString("Value. ")
                 .pauseFor(500)
-                .typeString("and Validation.")
+                .typeString("Validation.")
 
                 .start();
             }}
