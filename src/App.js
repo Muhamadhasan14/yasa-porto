@@ -3,7 +3,7 @@ import AnimatedRoutes from "./components/AnimatedRoutes";
 
 function App() {
   const personalDetails = {
-    name: "M Hasan Mulyasa R",
+    name: "M Hasan Mulyasa Ramadani",
     location: "Jakarta, ID",
     email: "muhamadhasanmulyasar@gmail.com",
     availability: "Open for Freelance",
