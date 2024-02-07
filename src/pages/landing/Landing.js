@@ -52,14 +52,14 @@ const Landing = ({ name }) => {
             onInit={(typewriter) => {
               typewriter
                 .changeDelay(80)
-                .typeString("I'm a Product Manager")
+                .typeString("Professional Product Management")
                 .pauseFor(1500)
                 .deleteAll()
-                .typeString("Idea. ")
+                .typeString("Vision  .")
                 .pauseFor(500)
-                .typeString("Create. ")
+                .typeString("Value  .")
                 .pauseFor(500)
-                .typeString("Deliver.")
+                .typeString("Validation  .")
 
                 .start();
             }}
