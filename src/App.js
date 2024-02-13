@@ -10,7 +10,6 @@ function App() {
     brand:
       "just a product manager pursuing my dream to bring lots of smiles by fulfilling users' needs and providing value to the company",
   };
-
   return (
     <>
       <Header />
