@@ -29,7 +29,7 @@ const Form = () => {
     e.preventDefault();
 
     const data = JSON.stringify(formData);
-    <a href="mailto:email@example.com">Click to Send an Email</a>
+    <a href="Muhamadhasanmulyasar@gmail.com">Click to Send an Email</a>
 
 
     fetch("https://api.web3forms.com/submit", {
@@ -118,7 +118,7 @@ const Form = () => {
       </div>
       <div className="col-12 formGroup formSubmit">
         <button className="btn">
-          <a href="mailto:yasa.mulyasa14@gmail.com">Click to Send an Email</a>
+          <a href="mailto:muhamadhasanmulyasar@gmail.com">Click to Send an Email</a>
 
           {/* {success ? "Message Sent" : "Send Message"} */}
         </button>
